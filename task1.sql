@@ -1,5 +1,4 @@
 -- Create the database
-drop database db_LibraryManagement;
 CREATE DATABASE IF NOT EXISTS db_LibraryManagement;
 USE db_LibraryManagement;
 
